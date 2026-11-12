@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gulka123/Unison/releases/latest"><b>Скачать последний релиз (v0.4.2)</b></a>
+  <a href="https://github.com/Gulka123/Unison/releases/latest"><b>Скачать последний релиз (v1.0)</b></a>
 </p>
 
 ---
@@ -30,17 +30,17 @@
 
 ---
 
-## Установка (v0.4.2)
+## Установка (v1.0)
 
 Скачайте нужный файл со страницы [**Releases**](https://github.com/Gulka123/Unison/releases/latest):
 
 ### Windows (x64)
-1. Скачайте **`Unison-win-x64-v0.4.2.zip`**.
+1. Скачайте **`Unison-win-x64-v1.0.zip`**.
 2. Распакуйте архив целиком в удобную папку и запустите **`Unison.exe`**.
 3. *Примечание:* при первом запуске Windows SmartScreen может показать предупреждение о неизвестном издателе (приложение не подписано платным EV-сертификатом) — нажмите **«Подробнее → Выполнить в любом случае»**.
 
 ### Android
-1. Скачайте **`Unison-android-v0.4.2.apk`**.
+1. Скачайте **`Unison-android-v1.0.apk`**.
 2. Установите APK на устройство (Android 6.0+, может потребоваться разрешение установки из неизвестных источников).
 
 ---
@@ -48,6 +48,6 @@
 ## Контрольные суммы (SHA-256)
 
 ```text
-Unison-win-x64-v0.4.2.zip  11F54622666BF29D86706656537E100A9E1F3299B31365A5A3C04DE3B6CAFDCF
-Unison-android-v0.4.2.apk  89D58A12990FAD319990B8ACA48C1D1219E458A62A3093B954BA6626C9A02926
+Unison-win-x64-v1.0.zip  F6F206725775D9ED9921A6F4480C3BDD1CCC08126083AE31D85389C7ABDBA7CC
+Unison-android-v1.0.apk  14E6315BEB7DBC40C42582EF9A1C5056EDB6B5218925C1DB4FAFFA7197A24A32
 ```
